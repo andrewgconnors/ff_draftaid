@@ -13,6 +13,10 @@
  * © SpryMedia Ltd - datatables.net/license
  */
 
+/*! ColReorder 2.1.1
+ * © SpryMedia Ltd - datatables.net/license
+ */
+
 /*! DataTables 2.3.3
  * © SpryMedia Ltd - datatables.net/license
  */
